@@ -9,7 +9,7 @@
    
 
 Attributes in table
-1. **Season**:
+1. **Session**:
     - *Data Type*: Integer
     - *Description*: Represents the IPL season for which the match results are recorded.
     - *Example*: 2008, 2009, 2010, ...
