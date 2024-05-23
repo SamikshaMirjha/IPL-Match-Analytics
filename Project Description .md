@@ -1,6 +1,7 @@
 # IPL-Match-Analytics
 Web Scrapping | Selenium | Beautiful Soup
-## Objective: Python web scraping to extract IPL match results from the official IPL website for different seasons.
+## Objective: 
+Python web scraping to extract IPL match results from the official IPL website for different seasons.
 ## Tools:
    Selenium/ BeautifulSoup
 ## Website Url :
